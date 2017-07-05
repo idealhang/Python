@@ -1,3 +1,4 @@
+# editor Idealhang
 temp = int(input('请输入一个整数：'))
 while temp > 0:
     i = temp -1
